@@ -36,5 +36,6 @@ However, a much easier and temporary way to get the app running on both is to us
 * ![Windows](https://github.com/sentairanger/Dual-Robot-Kivy/blob/main/2021-04-29.png)
 * Final App running on Android
 * ![Android](https://github.com/sentairanger/Dual-Robot-Kivy/blob/main/Screenshot_20210428-155135.png)
+* Torvalds and Linus
 
-
+* ![robots](https://github.com/sentairanger/Dual-Robot-Kivy/blob/main/IMG_20210429_190342706.jpg)
